@@ -35,7 +35,7 @@ clear
 if [ "$dang_nhap_thanh_cong" = false ]; then
   echo " [LỖI] Sai mật khẩu! Bạn không có quyền sử dụng Tool này."
   echo " "
-  echo " VUI LÒNG LIÊN HỆ MR. HUY IT ĐỂ ĐƯỢC QUYỀN TRUY CẬP."
+  echo " VUI LÒNG LIÊN HỆ IT ĐỂ ĐƯỢC QUYỀN TRUY CẬP."
   echo " "
   echo " Truy cập bị từ chối."
   exit 1
@@ -1194,9 +1194,9 @@ cau_hinh_o_mang_moi() {
 while true; do
     clear
     echo ""
-    echo "==============================================================="
-    echo "      TOOL AUTO SETUP MÁY TRẠM UBUNTU - MADE BY HUY IT V2.3    "
-    echo "==============================================================="
+    echo "========================================================================================"
+    echo "      TOOL AUTO SETUP MÁY TRẠM UBUNTU - MADE BY HUY IT V2.3 - FIX BY VIET IT V2.4       "
+    echo "========================================================================================"
     echo " 1. Cài đặt toàn bộ (Phần mềm + Máy in + Ổ mạng)"
     echo " 2. Chỉ cài phần mềm (Chrome, Zalo, Bamboo, RustDesk)"
     echo " 3. Chỉ cài máy in (HP LaserJet M402)"
